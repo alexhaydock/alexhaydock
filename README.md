@@ -5,7 +5,7 @@ I currently work as a Security Engineer in the UK energy sector.
 Here you'll find a few of my interesting projects. _Please_ don't rely on them for anything mission critical, but do feel free to look around! 😄
 
 #### [pinewall](https://github.com/alexhaydock/pinewall)
-This is my custom Alpine Linux router spin. I've been running this in production as my core (home!) internet gateway since about 2020. It runs entirely from RAM on a Raspberry Pi 4 using images entirely built within GitLab CI, and leverages Alpine's [LBU](https://wiki.alpinelinux.org/wiki/Alpine_local_backup) functionality to overlay configs.
+This is my custom Alpine Linux router spin. I've been running this in production as my core (home!) internet gateway since mid-2021. It runs entirely from RAM on a Raspberry Pi 4 using images entirely built within GitLab CI, and leverages Alpine's [LBU](https://wiki.alpinelinux.org/wiki/Alpine_local_backup) functionality to overlay configs.
 
 #### [goldenblue](https://github.com/alexhaydock/goldenblue)
 This is my personal "golden image" spin of the immutable [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/). It's also built entirely within GitLab CI, and is heavily inspired by the [Universal Blue](https://universal-blue.org/) project. I've been running this as my "daily driver" since Fedora 38 and it's been working very well for that purpose.
