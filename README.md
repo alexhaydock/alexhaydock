@@ -8,7 +8,7 @@ Here you'll find a few of my interesting projects. _Please_ don't rely on them f
 A blog which I started in Oct 2024 as an effort to share more of the things that I'm interested in. My home on the IndieWeb.
 
 #### [AS215768](https://as215768.net)
-My very own RIPE-allocated AS. A fun project that involved acquiring my own IPv6 prefixes to advertise, and learning far more than I wanted to know about BGP. It's currently fully functional, as you can see by visiting the blog above (assuming your ISP supports IPv6).
+My very own RIPE-allocated AS. A fun project that involved acquiring my own IPv6 prefixes to advertise, and learning far more than I wanted to know about BGP. It's currently fully functional, as you can see by visiting the [landing page](https://as215768.net), or the blog above (assuming your ISP supports IPv6).
 
 #### [Pinewall](https://github.com/alexhaydock/pinewall)
 My custom Alpine Linux router spin. I've been running this in production as my primary (home!) internet gateway since mid-2021. It builds into a single packed EFI binary which runs entirely from RAM. I deploy it to Proxmox using Terraform.
