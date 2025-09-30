@@ -1,6 +1,6 @@
 ### Hi, I’m Alex. 👋
 
-I currently work as a Security Engineer in the UK energy sector.
+I currently work as a Security Engineer in the UK.
 
 Here you'll find a few of my interesting projects. _Please_ don't rely on them for anything mission critical, but do feel free to look around! 😄
 
