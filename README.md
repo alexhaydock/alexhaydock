@@ -2,7 +2,11 @@
 
 I currently work as a Security Engineer in the UK.
 
-Here you'll find a few of my interesting projects. _Please_ don't rely on them for anything mission critical, but do feel free to look around! 😄
+In my spare time, I currently help to build Tor & DNS infrastructure with [Emerald Onion](https://emeraldonion.org/).
+
+Recently, I've also been [maintaining some packages](https://bodhi.fedoraproject.org/users/alexhaydock) in Fedora. I'm hoping to get more involved in the future.
+
+Some other random projects I've been working on:
 
 #### [blog.infected.systems](https://blog.infected.systems)
 A blog which I started in Oct 2024 as an effort to share more of the things that I'm interested in. My home on the IndieWeb.
