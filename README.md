@@ -9,10 +9,10 @@ Recently, I've also been [maintaining some packages](https://bodhi.fedoraproject
 Some other random projects I've been working on:
 
 #### [blog.infected.systems](https://blog.infected.systems)
-A blog which I started in Oct 2024 as an effort to share more of the things that I'm interested in. My home on the IndieWeb.
+A blog which I started in Oct 2024 as an effort to share more of the things that I'm interested in. Oh and, yes, it is still [running on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/).
 
 #### [AS215768](https://as215768.net)
-My very own RIPE-allocated AS. A fun project that involved acquiring my own IPv6 prefixes to advertise, and learning far more than I wanted to know about BGP. It's currently fully functional, as you can see by visiting the [landing page](https://as215768.net), or the blog above (assuming your ISP supports IPv6).
+My very own RIPE-allocated AS. A fun project that involved acquiring my own IPv6 prefixes to advertise, and learning far more than I wanted to know about BGP. It's currently fully functional, and advertised directly from my house with my home ISP as the primary upstream. I'm planning on looking into multi-homing this eventually.
 
 #### [Pinewall](https://github.com/alexhaydock/pinewall)
 My custom Alpine Linux router spin. I've been running this in production as my primary (home!) internet gateway since mid-2021. It builds into a single packed EFI binary which runs entirely from RAM. I deploy it to Proxmox using Terraform.
