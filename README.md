@@ -17,5 +17,5 @@ My very own RIPE-allocated AS. A fun project that involved acquiring my own IPv6
 #### [Pinewall](https://github.com/alexhaydock/pinewall)
 My custom Alpine Linux router spin. I've been running this in production as my primary (home!) internet gateway since mid-2021. It builds into a single packed EFI binary which runs entirely from RAM. I deploy it to Proxmox using Terraform.
 
-#### [Install-Gentoo](https://github.com/alexhaydock/install-gentoo)
-Okay, this one is... not so serious. This is my attempt at building an end-to-end build process for a (mostly) entirely hands-free Stage 3 tarball install of Gentoo Linux using an Ansible playbook. Shockingly it does actually work.
+#### [NekOS](https://github.com/alexhaydock/NekOS)
+An OS that only displays pictures of my cats.
