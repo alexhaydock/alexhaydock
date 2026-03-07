@@ -8,14 +8,14 @@ Recently, I've also been [maintaining some packages](https://bodhi.fedoraproject
 
 Some other random projects I've been working on:
 
-#### [blog.infected.systems](https://blog.infected.systems)
-A blog which I started in Oct 2024 as an effort to share more of the things that I'm interested in. Oh and, yes, it is [still running on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/).
+#### [Pinewall](https://github.com/alexhaydock/pinewall)
+My custom Alpine Linux router spin. Running this in production as my primary (home!) internet gateway since mid-2021. It targets byte-for-byte reproducibility and builds into a single EFI binary which I deploy to Proxmox using Terraform.
+
+#### [My Blog](https://blog.infected.systems)
+A blog to share some of the things that I'm interested in. Oh and, yes, it is [still running on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/).
 
 #### [AS215768](https://as215768.net)
-My very own RIPE-allocated AS. A fun project that involved acquiring my own IPv6 prefixes to advertise, and learning far more than I wanted to know about BGP. It's currently fully functional, and advertised directly from my house with my home ISP as the primary upstream. I'm planning on looking into multi-homing this eventually.
-
-#### [Pinewall](https://github.com/alexhaydock/pinewall)
-My custom Alpine Linux router spin. I've been running this in production as my primary (home!) internet gateway since mid-2021. It builds into a single packed EFI binary which runs entirely from RAM. I deploy it to Proxmox using Terraform.
+My very own RIPE-allocated AS. A fun project that involved acquiring my own IPv6 prefixes to advertise, and learning far more than I wanted to know about BGP. It's advertised directly from my house with my home ISP as the primary upstream. It hosts the blog above, among other things.
 
 #### [NekOS](https://github.com/alexhaydock/NekOS)
-An OS that only displays pictures of my cats.
+A custom Linux-based OS that only displays pictures of my cats. [Now banned in California](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1043). 😸
