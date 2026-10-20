@@ -1,10 +1,8 @@
 ### Hi, I’m Alex. 👋
 
-I currently work as a Security Engineer in the UK.
+Currently working with Emerald Onion to build [resilient and transparent](https://emeraldonion.org/blog/evolving-our-tor-relay-security-architecture/) Tor relay infrastructure.
 
-In my spare time, I currently help to build Tor & DNS infrastructure with [Emerald Onion](https://emeraldonion.org/).
-
-Recently, I've also been [maintaining some packages](https://bodhi.fedoraproject.org/users/alexhaydock) in Fedora. I'm hoping to get more involved in the future.
+Recently, I've also been [maintaining the quickemu package](https://bodhi.fedoraproject.org/users/alexhaydock) in Fedora. I'm hoping to expand this to more endpoint security related packages in future.
 
 Some other random projects I've been working on:
 
@@ -15,7 +13,7 @@ My custom Alpine Linux router spin. Running this in production as my primary (ho
 A blog to share some of the things that I'm interested in. Oh and, yes, it is [still running on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/).
 
 #### [AS215768](https://as215768.net)
-My very own RIPE-allocated AS. A fun project that involved acquiring my own IPv6 prefixes to advertise, and learning far more than I wanted to know about BGP. It's advertised directly from my house with my home ISP as the primary upstream. It hosts the blog above, among other things.
+My personal AS. A fun project that involved acquiring my own IPv6 prefixes from RIPE to advertise, and learning far more than I wanted to know about BGP. It's advertised directly from my house with my home ISP as the primary upstream. It hosts the blog above, among other services.
 
 #### [NekOS](https://github.com/alexhaydock/NekOS)
-A custom Linux-based OS that only displays pictures of my cats. [Now banned in California](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1043). 😸
+A custom Linux-from-Scratch inspired OS that only displays pictures of my cats and does nothing else.
