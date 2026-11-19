@@ -2,7 +2,7 @@
 
 Currently working with Emerald Onion to build [resilient and transparent](https://emeraldonion.org/blog/evolving-our-tor-relay-security-architecture/) Tor relay infrastructure.
 
-Recently, I've also been [maintaining the quickemu package](https://bodhi.fedoraproject.org/users/alexhaydock) in Fedora. I'm hoping to expand this to more endpoint security related packages in future.
+Recently, I've also been [maintaining the quickemu package](https://bodhi.fedoraproject.org/users/alexhaydock) in Fedora. I'm hoping to expand this to include some useful security-related packages in future.
 
 Some other random projects I've been working on:
 
