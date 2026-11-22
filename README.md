@@ -16,4 +16,4 @@ A blog to share some of the things that I'm interested in. Oh and, yes, it is [s
 My personal AS. A fun project that involved acquiring my own IPv6 prefixes from RIPE to advertise, and learning far more than I wanted to know about BGP. It's advertised directly from my house with my home ISP as the primary upstream. It hosts the blog above, among other services.
 
 #### [NekOS](https://github.com/alexhaydock/NekOS)
-A custom Linux-from-Scratch inspired OS that only displays pictures of my cats and does nothing else.
+A Linux-from-Scratch inspired OS that displays pictures of my cats and does nothing else.
